@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-  ![MasterHead](https://i.imgur.com/xcCS9ja.gif)
+  ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FMastermind-847156722&psig=AOvVaw2L-mLnBdcHWDw_PylKShN6&ust=1712425825449000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCmoIfSq4UDFQAAAAAdAAAAABAE)
   
   <h1 align="center">Hi 👋, that's JinRox</h1>
   <h3 align="center">A passionate software engineering</h3>
