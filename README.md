@@ -8,7 +8,7 @@
   <p><strong>Freelancing & Assisting my self at this life.</strong></p>
   <p><strong>The Types Of Songs I Like</strong></p>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=312npzpjekjecwpomsedxkcs73hi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312npzpjekjecwpomsedxkcs73hi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=312npzpjekjecwpomsedxkcs73hi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312npzpjekjecwpomsedxkcs73hi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   <h3 align="center">Find me here:</h3>
   <p align="center">
